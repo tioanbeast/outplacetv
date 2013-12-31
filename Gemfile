@@ -20,3 +20,4 @@ gem 'panda', '~> 1.6.0'
 
 gem "pg", :group => :production
 gem "sqlite3-ruby", :group => :development
+gem 'rails_12factor'
