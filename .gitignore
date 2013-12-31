@@ -1,0 +1,8 @@
+*.log
+*.pid
+uuid.state
+.DS_Store
+schema.rb
+tmp/*
+config/panda.yml
+*.sqlite3
